@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent to General Monk, to St. Albons the 29 of January. VVherein the antient government of England founded upon Magna Charta, and the Petition of Right, is vindicated and proved to be a popular and free commonwealth; all the marks of soveraignty being in the people. Together vvith an expedient for admitting the Members excluded in 48, and composing all differences, and setling the nation upon a sure basis of peace.</title>
+            <author>Nichols, Henry, fl. 1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89674</idno>
+            <idno type="STC">Wing N1100</idno>
+            <idno type="STC">Thomason E1015_2</idno>
+            <idno type="STC">ESTC R203054</idno>
+            <idno type="EEBO-CITATION">99863144</idno>
+            <idno type="PROQUEST">99863144</idno>
+            <idno type="VID">168772</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89674)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168772)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1015[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent to General Monk, to St. Albons the 29 of January. VVherein the antient government of England founded upon Magna Charta, and the Petition of Right, is vindicated and proved to be a popular and free commonwealth; all the marks of soveraignty being in the people. Together vvith an expedient for admitting the Members excluded in 48, and composing all differences, and setling the nation upon a sure basis of peace.</title>
+                  <author>Nichols, Henry, fl. 1660.</author>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: H.N., i.e. Henry Nichols.</note>
+                  <note>Annotation on Thomason copy: "Feb. 2.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Magna Carta --  Early works to 1800.</term>
+               <term>Republics --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168772:1" rendition="simple:additions"/>
+            <p>A LETTER SENT TO GENERAL MONK, To St. <hi>Albons</hi> the 29 of <hi>January.</hi>
+            </p>
+            <p>VVHEREIN The Antient Government of <hi>England</hi> founded upon <hi>MAGNA CHARTA,</hi> and the Peti<g ref="char:EOLhyphen"/>tion of Right, is vindicated and proved to be a popular and free Commonwealth; All the marks of Soveraignty being in the people.</p>
+            <p>TOGETHER VVith an Expedient for admitting the Members excluded in 48, and compoſing all differences, and ſetling the Nation upon a ſure Baſis of <hi>PEACE.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168772:2"/>
+            <pb n="3" facs="tcp:168772:2"/>
+            <head>A LETTER TO GENERAL MONK.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>THis Letter was intended you, before yours to the <hi>Devonſhire</hi> Gentlemen came forth, and therefore it may not be looked on as an anſwer, though in it you may find your objections anſwered, and an expedient propoſed for future Settlement, which will be more for your honour to cloſe with, than to joyn with an intereſt averſe to the Spirit of the Nation. The credit of your Letter hath given birth to 100000. <hi>per menſem,</hi> and if you ſhould not haſten filling up the Houſe without laying ſnares for honeſt conſciencious men, its feared it may involve us in a ſpeedy war, &amp; leſt this inten<g ref="char:EOLhyphen"/>ded new Government might pretend to have ſomthing of freedom in it which the People wanted, I have conſider<g ref="char:EOLhyphen"/>ed our former conſtitution, without raveling into matter of fact ſince the year 40, and have ſtated the cauſe of the Commonwealth, as its now in the Parliament Houſe, and under the conſideration of the wiſeſt, ſobereſt, and
+<pb n="4" facs="tcp:168772:3"/>
+moſt judicious out of the Houſe; wherein a way of Settlement may be propoſed, and proſecuted, as nigh as poſſible to the ſatisfaction of all perſons concerned; the pi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lars of the peoples liberty being theſe two excellent Laws <hi>Magna Charta,</hi> and the Petition of Right, do ſo well preſerve the property and liberty of all ſorts and ranks of men, that the ſingle perſon could not legally incroach upon the Nobility and Gentry, nor they upon the Com<g ref="char:EOLhyphen"/>monalty, each had ſuch a check upon other, that they were a ballance each to other, and were as neceſſary to each other as the hand to the head, or the head to the feet, each contributing his part to make a compleat &amp; free Common-wealth, more free than which, never was any. For the ſingle perſon was ſo limited and bounded by his oath to Govern according to Law, and by Law no former Law or Statutes can be repealed, no new one made or in<g ref="char:EOLhyphen"/>troduced, but what is moved in the popular counſell, and there debated and conſidered whether it be for the good of the People. And if upon the debate it be not found in all, or in part <hi>pro bona Publica,</hi> its laid aſide. Secondly, the ſingle perſon had no power to take from them the leaſt part of their Eſtates without their own conſents in Parliament, nor to impriſon their perſons without the cauſe be ſignified in the warrant, and then it ought to be by a legal Magiſtrate, which in a certain time is bound to proſecute, which being not done, the perſon cannot be denyed a <hi>Habeas Corpus,</hi> and the Judge is bound to ſet him at Liberty, the party grieved hath a good Action againſt the Officers that illegally impriſoned him, notwithſtanding the Kings Warrant under Hand and Seal; For the Government doth ſo well provide againſt Tyrranny and Arbitrarineſſe, that whatever perſon puts the Kings illegal commands in ex<g ref="char:EOLhyphen"/>ecution ſhall ſuffer for breach of the Law, and the Kings Warrant cannot juſtifie him, and upon that reaſon was that antient <hi>maxime</hi> grounded.</p>
+            <p>
+               <pb n="5" facs="tcp:168772:3"/>That the King can do no wrong, which has only re<g ref="char:EOLhyphen"/>lation to his politique capacity; So that it is very per<g ref="char:EOLhyphen"/>ſpicuous to every eye, that the Government of this Nation is a popular and free Common-wealth, all the marks of Soverainty being in the people, for the ne<g ref="char:EOLhyphen"/>gative voyce and execative part of the Government, in the intervals of Parliament they were no way a dimi<g ref="char:EOLhyphen"/>nution of the peoples freedom; for what ever emer<g ref="char:EOLhyphen"/>gency the ſingle perſon had, he could raiſe no money but by Parliament, and in Parliament they never con<g ref="char:EOLhyphen"/>ſeded to raiſe any money, except the King gratified them in their deſires, that is, to grant thoſe Laws they propoſed, ſo that he was neceſſarily, and conſe<g ref="char:EOLhyphen"/>quently conſtrained to grant their Laws, otherwiſe his neceſſities were left unredreſſed; As to the <hi>Militia,</hi> it was placed in mens hands of Eſtates and Intereſt, the Officers being men of quality, the Souldiery were compoſed of the Farmer and Yeoman, who cannot be thought would joyn againſt Law and Reaſon with the Luſt and Ambition of any ſingle perſon, to abridge themſelves and their poſterity of any juſt freedom they injoyed as their Birthright. Beſides they had no parti<g ref="char:EOLhyphen"/>cular obligation to obleage them to the King, for they were not his mercinaries raiſed to ſupport his Preroga<g ref="char:EOLhyphen"/>tive, but thoſe that lived upon their own Eſtates, and were put in truſt to preſerve the peace of the Country according to Law, both againſt forein invaſions, and domeſtick inſurrections; and it were a thing impoſſi<g ref="char:EOLhyphen"/>ble to imagine that they could ever be ſo beſotted, as to change their Liberty for Slavery, as ſome do vainly dream; On the contrary it hath been too evident in our Hemisfere of late years, how eaſy it is to per<g ref="char:EOLhyphen"/>ſwade and lead mercenary Souldiers to the ſubvertion both of Law and Religion, and to convert thoſe that were raiſed for the ſtrength, defence, and liberty of the Commonwealth, to become the abſolute Lords and
+<pb n="6" facs="tcp:168772:4"/>
+Maſters thereof; the late ſad experience of this truth I ſhall leave to your ſerious conſideration. I acknow<g ref="char:EOLhyphen"/>ledge that ſeveral Kings have attempted, making themſelves abſolute, but in peruſal of the Hiſtory, you ſhall find that no King of <hi>England</hi> ſince <hi>Henry</hi> the 3ds. time, who firſt granted the Charter, hath ever got<g ref="char:EOLhyphen"/>ten by contending with his Subjects, but loſt; and their Favorets and Counſellers were brought to ignominious deaths. It will be too long for a Letter to recite the particulars, and we ſee the great Charter confirmed 32 times by Act of Parliament; Sir, It's judged that a people with good Laws, and good Majeſtrates, may live happily under a Monarchy, Aſtrocraſie or Demo<g ref="char:EOLhyphen"/>craſie; the form of Government, neither adds nor di<g ref="char:EOLhyphen"/>miniſheth, for we ſhall find in Hiſtory both applau<g ref="char:EOLhyphen"/>ded and condemned, it is good Laws and good Magiſtrates only gives the difference; and therefore no wiſe good man will be an inſtrument to change a Law or Government upon a people, a<g ref="char:EOLhyphen"/>gainſt the genious and ſpirit of the people, for princi<g ref="char:EOLhyphen"/>pally every body operates to his own good; If the greateſt part of the men of intereſt, of honeſty, and wiſdom, center in a Government (excepting only ſome few which are biaſſed by ſiniſter and ſelfiſh principals;) It is both the duty and wiſdom of every honeſt and good man, to contribute as much as lies in him to the ſtrengthening of their intereſt. I have but a word more, the Government of this Nation is Parliamentary; Par<g ref="char:EOLhyphen"/>liaments elected, ſitting and voting freely, that every Member choſen by the people may freely ſit and vote before he is adjudged uncapable by a Legal and fair Tryal, that no Member may be obſtructed by a force without: God hath made you inſtrumental in remove<g ref="char:EOLhyphen"/>ing one force, that you may be truly inſtructed in the State of the caſe, to remove all force from this preſent Parliament; I recommend you to Mr. <hi>Prynnes</hi> book,
+<pb n="7" facs="tcp:168772:4"/>
+               <hi>The Cauſe of the ſecluded Members Vindicated;</hi> You will meet with objections and obſtructions, and they hang ſimply upon thoſe two great propoſitions. Firſt, how to ſecure both Lives and Eſtates of all that have acted ſince 47. Secondly, and how to maintain the good old Parliaments cauſe, undertaken for the good of the Sub<g ref="char:EOLhyphen"/>ject in the year 40. I have a ſhort expedient to offer you; As to the firſt, that you will endeavour that ſix of the ſecluded Members, <hi>viz.</hi> Mr. <hi>Pierepoint,</hi> Mr. <hi>Crew,</hi> Sir <hi>William Waller,</hi> Sir <hi>Gilbert Garret,</hi> Serjeant <hi>Maynard,</hi> and Mr. <hi>Anſley,</hi> may be Commiſſioners appointed of the one ſide; Lord St. <hi>Iohn,</hi> Sir <hi>Anthony Aſhley-Cooper,</hi> Mr. <hi>VVeaver,</hi> Mr. <hi>Letchmore,</hi> Colonel <hi>Morley,</hi> Colonel <hi>Hutchinſon,</hi> on the other part; and in caſe there ſhould be any difference, wherein they ſhould not agree, that three moderate men may be choſen as Umpires for the healing our Breaches, and compoſing theſe differences amongſt us; Whereby this poor Nation may hope for a ſettlement: It hath been your honour to ſtand in the gap, to reſiſt the moſt wicked and arbitrary deſign that ever was laid to inſnare a people; It is now your wiſ<g ref="char:EOLhyphen"/>dom and intereſt to eſpouſe the intereſt and good of this Nation for a future conſiſtency and ſettlement, and therefore you ought not to ſeek the pleaſing of ſome few ſelfiſh ambitious perſons, to the diſguſt of the whole; Follow your wonted moderation and wiſdom, but give not your Country cauſe to believe you will leave them deſtitute of a friend in this day of trouble. When you come to <hi>London,</hi> you will find your ſelf Courted by all parties; The Lord be your Councel and Guide, for you now walk upon the edge of a knife, but he that walks uprightly walks ſurely. As to You ſecond, if the Parlia<g ref="char:EOLhyphen"/>ment be left free, and the Perſons and Eſtates of all that have acted under any Government ſince 47. be ſecured by an Act of Oblivion and indempnity, and an aſſurance of any Eſtate that hath been made over by the preſent Au<g ref="char:EOLhyphen"/>thority,
+<pb n="8" facs="tcp:168772:5"/>
+or any Authority which acted ſince the firſt in<g ref="char:EOLhyphen"/>terruption, either by re-imburſement of the money, with uſe, or confirmation of the Eſtate by Act of Parliament; Who can diſtruſt that Parliament, (which hath a pub<g ref="char:EOLhyphen"/>lick Spirit) that managed the heat of the War from 42. to 47. againſt the late Kings intereſt? But they will ſet<g ref="char:EOLhyphen"/>tle the Nation upon a Baſis of Righteouſneſſe, and Pub<g ref="char:EOLhyphen"/>lick preſervation againſt all Tyrany and Tyrannical uſur<g ref="char:EOLhyphen"/>pation whatſoever; I crave pardon for this trouble, and beſeech you for God and your poor Countries ſake, that you be not ſlow to conſider ſome expedient, that may be righteous and equal for the ſetling of this Nation, which will give you increaſe of Honour, as you increaſe in years here, and leave you a Reputation full of Glory to Poſterity. <hi>I Remain</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Right Honourable Your most Affectionate Humble Servant,</hi> H.N.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
